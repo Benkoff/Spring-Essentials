@@ -2,7 +2,11 @@
 Spring Framework materials, links, working files and learning projects
 
 ## Links to the official documentation
-Spring Framework Reference Documentation: https://docs.spring.io/spring/docs/5.0.0.M2/spring-framework-reference/html/
+Spring Framework Reference Documentation: https://docs.spring.io/spring/docs/5.0.0.M2/spring-framework-reference/html/ 
+<br></br>
+### Easy way to start a Spring project with IntelliJ IDEA CE
+<a href="https://github.com/alek-sys/spring-demo"> spring-demo </a>  
+<a href="https://habrahabr.ru/post/333756/"> Как писать на Spring в 2017 </a>
 
 ----
 ## Actual classes 

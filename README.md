@@ -13,6 +13,8 @@ Spring Framework Reference Documentation: https://docs.spring.io/spring/docs/5.0
 ### Udemy - Spring & Hibernate for Beginners
 <a href="https://github.com/Benkoff/Udemy-Spring-Hibernate-for-Beginners"> Working Files </a>
 
+### Udemy - Spring Framework 5 Beginner to Guru by John Thompson
+<a href="https://github.com/Benkoff/Udemy-Spring-Framework-5"> Working Files </a>
 
 ### O'Reilly - Getting Started with Spring Boot 
 <a href="https://github.com/Benkoff/Spring-Essentials/tree/master/O'Reilly%20-%20Getting%20Started%20with%20Spring%20Boot/Working%20Files"> Working Files </a>
